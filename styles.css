@@ -14,14 +14,14 @@ main {
 }
 
 .pre {
-text-overflow: clip !important;
+  font-size: 12px !important;
   text-wrap: wrap !important;
   height: 40vh;
   overflow: hidden !important;
 }
 
 code {
-text-overflow: clip !important;
+  font-size: 12px !important;
   text-wrap: wrap !important;
 }
 
