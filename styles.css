@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+}
+
+body {
+  padding: 16px;
+  height: 100%;
+  display: flex;
+  flex-flow: column wrap;
+}
+
+main {
+  flex: 1;
+}
+
+.pre {
+text-overflow: clip !important;
+  text-wrap: wrap !important;
+  height: 40vh;
+  overflow: hidden !important;
+}
+
+code {
+text-overflow: clip !important;
+  text-wrap: wrap !important;
+}
+
+.stage {
+  text-align: center;
+
+}
+
+footer {
+  padding: 8px;
+  text-align: center;
+}
